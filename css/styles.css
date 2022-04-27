@@ -1,0 +1,15 @@
+ul {
+    list-style: none;
+}
+
+.firstName {
+    cursor: pointer;
+}
+
+.firstName:hover {
+    color: green;
+}
+
+.contact-details {
+    display: none;
+}
